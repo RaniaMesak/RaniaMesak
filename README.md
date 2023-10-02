@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaniaMesak
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning at Red River College PolyTechnic
-- 💞️ I’m looking to collaborate on Java, C#, HTML
+- 💞️ I’m looking to collaborate on Java, C#, HTML, Python
 - 📫 How to reach me RaniaDavid2000@yahoo.com
 
 <!---
